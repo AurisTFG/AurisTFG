@@ -1,18 +1,13 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=auristfg&label=Profile%20views&color=0e75b6&style=flat" alt="auristfg" /> 
+</p>
+
 <h1 align="center">Hello, I'm AurisTFG 👋</h1>
 <h3 align="center">A 21-year-old Software Systems student from Lithuania <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuanian Flag" width="20"></h3> 
 <h3 align="center">Passionate about C++, C#, Reverse Engineering, Data Mining, and Esports!</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/auristfg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/auristfg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
+<br>
+<h2 align="center">Languages and Tools:</h3>
   <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -88,6 +83,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auristfg&" alt="auristfg" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=auristfg&label=Profile%20views&color=0e75b6&style=flat" alt="auristfg" /> 
+<br>
+<h2 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/auristfg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/auristfg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
