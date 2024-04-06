@@ -1,10 +1,29 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=auristfg&label=Profile%20views&color=0e75b6&style=flat" alt="auristfg" /> 
-</p>
-
 <h1 align="center">Hello, I'm AurisTFG 👋</h1>
 <h3 align="center">A 21-year-old Software Systems student from Lithuania <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuanian Flag" width="20"></h3> 
 <h3 align="center">Passionate about C++, C#, Reverse Engineering, Data Mining, and Esports!</h3>
+
+<br>
+<h2 align="center">Socials:</h3>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC8j04zNJiBPUajK4u3ZQT2w" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/auristfg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/auristfg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://www.discordapp.com/users/auristfg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/AurisTFG" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.paypal.com/paypalme/aurimasda" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+</div>
 
 <br>
 <h2 align="center">Languages and Tools:</h3>
@@ -68,6 +87,8 @@
     </a> 
   </p>
 
+<br>
+<h2 align="center">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AurisTFG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurisTFG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -80,16 +101,7 @@
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auristfg&" alt="auristfg" />
-</p>
-
-<br>
-<h2 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/auristfg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/auristfg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AurisTFG&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
